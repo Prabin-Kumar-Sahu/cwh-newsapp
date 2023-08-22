@@ -1,0 +1,1333 @@
+// {
+//   "status": "ok",
+//   "totalResults": 1393,
+//   "articles": [
+//     {
+//       "source": {
+//         "id": "the-verge",
+//         "name": "The Verge"
+//       },
+//       "author": "Amrita Khalid",
+//       "title": "Apple Podcasts now shows creators who’s really paying for their shows",
+//       "description": "Apple Podcasts Connect will now show analytics on subscription shows. The company is also partnering with Linkfire and adding new delegated delivery services.",
+//       "url": "https://www.theverge.com/2023/8/21/23839961/apple-podcasts-subscription-analytics-linkfire-partnership",
+//       "urlToImage": "https://cdn.vox-cdn.com/thumbor/6qjK0_3j9O7e30gOchnPdFw5H9w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986636/acastro_STK461_03.jpg",
+//       "publishedAt": "2023-08-21T16:00:00Z",
+//       "content": "Apple Podcasts now shows creators whos really paying for their shows\r\nApple Podcasts now shows creators whos really paying for their shows\r\n / The company is also partnering with Linkfire on smart li… [+5897 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": "the-verge",
+//         "name": "The Verge"
+//       },
+//       "author": "Andrew Webster",
+//       "title": "Apple’s sci-fi drama Invasion ramps up the tension in season 2",
+//       "description": "The sci-fi drama Invasion returns for season 2 on Apple TV Plus on August 23rd, and the show brings a more exciting blend of science fiction compared to season 1.",
+//       "url": "https://www.theverge.com/23833132/invasion-season-2-review-apple-tv-plus",
+//       "urlToImage": "https://cdn.vox-cdn.com/thumbor/OhE8zK48gXSOgH_X2NsDseT8Rwo=/0x0:3840x1600/1200x628/filters:focal(2410x759:2411x760)/cdn.vox-cdn.com/uploads/chorus_asset/file/24761779/Invasion_201_F00432F.jpg",
+//       "publishedAt": "2023-08-21T15:00:00Z",
+//       "content": "Apples sci-fi drama Invasion ramps up the tension in season 2\r\nApples sci-fi drama Invasion ramps up the tension in season 2\r\n / Things get off to a fast start as the show mixes human drama with clas… [+4622 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": "the-verge",
+//         "name": "The Verge"
+//       },
+//       "author": "Jennifer Pattison Tuohy",
+//       "title": "Here’s the first outdoor smart plug to work with Matter",
+//       "description": "The Leviton Decora Smart Wi-Fi Outdoor Plug-in Switch costs $55 and works with most smart home platforms thanks to Matter support.",
+//       "url": "https://www.theverge.com/2023/8/21/23837585/leviton-matter-outdoor-smart-plug",
+//       "urlToImage": "https://cdn.vox-cdn.com/thumbor/JN_Bi6r0Hpn3oZwYv_N_-oEC5Mk=/0x0:993x689/1200x628/filters:focal(497x345:498x346)/cdn.vox-cdn.com/uploads/chorus_asset/file/24863264/D215O_Hero_Screen_2.jpeg",
+//       "publishedAt": "2023-08-21T13:00:00Z",
+//       "content": "Heres the first outdoor smart plug to work with Matter\r\nHeres the first outdoor smart plug to work with Matter\r\n / Levitons new Decora Smart Wi-Fi Outdoor Plug-in Switch works with Apple Home, Amazon… [+4839 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Android Central"
+//       },
+//       "author": "tips@androidcentral.com (Nickolas Diaz)",
+//       "title": "Samsung's 'Try Galaxy' app lets iPhone users experience life with a Galaxy Z Fold 5",
+//       "description": "Samsung updates its \"Try Galaxy\" app to once again convert iPhone users through its simulated foldable experience.",
+//       "url": "https://www.androidcentral.com/apps-software/samsung-try-galaxy-app-foldable-features-update",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/XKr9J5hLnDpyj2cVVL6U4g-1200-80.jpg",
+//       "publishedAt": "2023-08-21T17:22:21Z",
+//       "content": "<ul><li>Samsung's \"Try Galaxy\" app updates to showcase the Fold 5's large display, turning two connected iPhones into one unified display.</li><li>The new app highlights the FlexCam present on both d… [+2244 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Android Central"
+//       },
+//       "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+//       "title": "Samsung Galaxy Watch 7: Rumors, upgrades, and what we want to see",
+//       "description": "Aside from rumors about Samsung adding microLED to the Galaxy Watch 7, we mostly just have a wishlist of how we'd like Samsung to improve over the Galaxy Watch 6.",
+//       "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch-7",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/qUqzLi4tQAfEoau7pQKCWi-1200-80.jpeg",
+//       "publishedAt": "2023-08-21T15:02:07Z",
+//       "content": "Most Galaxy Watch 6 reviews have followed a familiar theme: Samsung made an excellent but iterative upgrade, with a few key advances but sticking to the same basic template as the last two watches. S… [+9204 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Android Central"
+//       },
+//       "author": "derrek.lee@futurenet.com (Derrek Lee)",
+//       "title": "The Pixel 8 may be eSIM-only as Android preps eSIM transfer tool",
+//       "description": "Pixel 8 renders hint at the possibility of an eSIM-only Pixel, while screenshots show off Google's upcoming eSIM transfer tool for Android.",
+//       "url": "https://www.androidcentral.com/phones/google-pixel-8-esim-speculation-android-transfer-tool-leak",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/xBtQcmkHMmWnLzqeSuq954-1200-80.jpg",
+//       "publishedAt": "2023-08-21T18:54:56Z",
+//       "content": "<ul><li>It's speculated that the Google Pixel 8 could be eSIM-only in some regions.</li><li>Google teased a new eSIM transfer tool for Android earlier this year.</li><li>A new leaks reveals how the n… [+2824 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Android Central"
+//       },
+//       "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+//       "title": "Samsung Galaxy S24: Rumors, specs, and what we want to see",
+//       "description": "Samsung became the king of Android for a reason, so what can the company really do to improve on the Galaxy S23? You might be surprised.",
+//       "url": "https://www.androidcentral.com/phones/samsung-galaxy-s24",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/htETqSUTS64eyhkXbxy2LY-1200-80.jpg",
+//       "publishedAt": "2023-08-21T15:02:32Z",
+//       "content": "Samsung's Galaxy S23 series was a success any way you measure it. From the improved sales numbers to the improved experience over the S22, Samsung really knocked it out of the park in 2023.\r\nSo how a… [+10943 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "The Guardian"
+//       },
+//       "author": "Presented by Max Rushden with Barry Glendenning, Barney Ronay and Nedum Onuoha. Produced by Joel Grove and our executive producer is Danielle Stephens.",
+//       "title": "Lionesses fly home while Spurs 2.0 blossom under Angeball - Football Weekly podcast",
+//       "description": "Max Rushden is joined by Barry Glendenning, Barney Ronay and Nedum Onuoha as Chelsea and Manchester United fail to impressRate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitte…",
+//       "url": "https://www.theguardian.com/football/audio/2023/aug/21/lionesses-fly-home-womens-world-cup-spurs-angeball-football-weekly-podcast",
+//       "urlToImage": "https://i.guim.co.uk/img/media/71e1dc1af062b9830bdb90e00f6973698da4a1fe/0_239_5224_3135/master/5224.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02c000a9e3c8162d7deeb89aaba2548e",
+//       "publishedAt": "2023-08-21T13:12:34Z",
+//       "content": "Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.\r\nToday; the Lionesses may lost the World Cup fina… [+594 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "The Guardian"
+//       },
+//       "author": "Adrian Horton",
+//       "title": "‘Embrace it or risk obsolescence’: how will AI jobs affect Hollywood?",
+//       "description": "As dual Hollywood strikes rage on, studios and streamers such as Netflix and Disney are on a hiring spree within the world of artificial intelligenceSince actors joined writers on the picket line in July, the two guilds, on their first joint strike since 1960…",
+//       "url": "https://www.theguardian.com/film/2023/aug/21/ai-jobs-hollywood-writers-actors-strike",
+//       "urlToImage": "https://i.guim.co.uk/img/media/c79783fb0b9edfb8707be646323ba83388c0bc66/0_54_5802_3481/master/5802.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d63538adc916f20efd235d94aaf0bdc5",
+//       "publishedAt": "2023-08-21T15:15:19Z",
+//       "content": "Since actors joined writers on the picket line in July, the two guilds, on their first joint strike since 1960, have found a common locus of fear and frustration: the potential encroachment of artifi… [+9098 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "The Guardian"
+//       },
+//       "author": "Sidney Blumenthal",
+//       "title": "Trump’s legal woes are part of his quasi-religious mythology of martyrdom | Sidney Blumenthal",
+//       "description": "These criminal entanglements are not only means but ends – not a sideshow, but the heart and soul of Trump’s campaignOn 16 or perhaps 17 July 2024, in Milwaukee, the Republican national convention will likely nominate as its presidential candidate a convicted…",
+//       "url": "https://www.theguardian.com/commentisfree/2023/aug/21/trump-election-giuliani-sidney-blumenthal",
+//       "urlToImage": "https://i.guim.co.uk/img/media/f3fb98c3afcf04c64d8e638840281acffb50a70e/0_0_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=40a81556466d3e96371144b96b70e354",
+//       "publishedAt": "2023-08-21T10:02:13Z",
+//       "content": "On 16 or perhaps 17 July 2024, in Milwaukee, the Republican national convention will likely nominate as its presidential candidate a convicted criminal. When Donald Trump ascends the podium to accept… [+13916 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MacRumors"
+//       },
+//       "author": "Joe Rossignol",
+//       "title": "Apple Pay to Support U.S. National Park Foundation This Week",
+//       "description": "Apple today announced it will donate $10 to the National Park Foundation for every purchase made in the U.S. using Apple Pay on Apple.com, in the Apple Store app, or at an Apple Store, up to a maximum of $1 million.\n\n\n\n\n\nApple has supported the National Park …",
+//       "url": "https://www.macrumors.com/2023/08/21/apple-pay-national-parks-donations/",
+//       "urlToImage": "https://images.macrumors.com/t/3AafKQrSjReo-42sG45rd9to9SU=/2500x/article-new/2021/07/Apple-Pay-Feature.jpg",
+//       "publishedAt": "2023-08-21T14:48:01Z",
+//       "content": "Apple today announced it will donate $10 to the National Park Foundation for every purchase made in the U.S. using Apple Pay on Apple.com, in the Apple Store app, or at an Apple Store, up to a maximu… [+758 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MacRumors"
+//       },
+//       "author": "Hartley Charlton",
+//       "title": "'A19' and 'M5' Chips Discovered on Apple Backend Server",
+//       "description": "References to what are believed to be the \"A19\" and \"M5\" Apple silicon chips have been discovered in official Apple code. \n\n\n\n\n\nThe references, found by Twitter user \"@_orangera1n,\" indicate the existence of a large number of unreleased Apple chips. Following…",
+//       "url": "https://www.macrumors.com/2023/08/21/a19-and-m5-chips-discovered/",
+//       "urlToImage": "https://images.macrumors.com/t/IVZhzM2GRs4phrpsKPH_q1To7UI=/1920x/article-new/2020/10/Apple-Silicon-Teal-Feature.jpg",
+//       "publishedAt": "2023-08-21T13:03:52Z",
+//       "content": "References to what are believed to be the \"A19\" and \"M5\" Apple silicon chips have been discovered in official Apple code. \r\nThe references, found by Twitter user \"@_orangera1n,\" indicate the existenc… [+1309 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MacRumors"
+//       },
+//       "author": "Hartley Charlton",
+//       "title": "iPhone 15 Could Come With Color-Matched Braided USB-C Cables",
+//       "description": "The iPhone 15 and ‌iPhone 15‌ Plus could come with color-matched braided USB-C to USB-C cables, according to a rumor coming out of Asia.\n\n\n\n\n\nTwitter user \"Majin Bu\" first shared the information over the weekend, but was unable to verify the source of the rum…",
+//       "url": "https://www.macrumors.com/2023/08/21/iphone-15-could-come-with-color-matched-cables/",
+//       "urlToImage": "https://images.macrumors.com/t/UHbVXQ9Qjikip6rwpvWcrIDhEyA=/2400x/article-new/2023/08/iphone-15-color-matched-cables.jpg",
+//       "publishedAt": "2023-08-21T10:51:54Z",
+//       "content": "The iPhone 15 and ‌iPhone 15‌ Plus could come with color-matched braided USB-C to USB-C cables, according to a rumor coming out of Asia.\r\nTwitter user \"Majin Bu\" first shared the information over the… [+1183 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MacRumors"
+//       },
+//       "author": "Eric Slivka",
+//       "title": "Samsung's ViewFinity S9 5K Display Launching August 28, Pre-Orders Available Now",
+//       "description": "Back at CES in January, Samsung unveiled its upcoming ViewFinity S9 display, one of the closest competitors to Apple's Studio Display, and last month Samsung revealed that it would finally be launching in the U.S. in August.\n\n\n\n\n\nIt now appears we have a spec…",
+//       "url": "https://www.macrumors.com/2023/08/21/samsung-viewfinity-s9-5k-display-pre-orders/",
+//       "urlToImage": "https://images.macrumors.com/t/awWP6F8ByAx0PUTKtXwqahF2t1k=/2000x/article-new/2023/07/samsung-viewfinity-s9.jpg",
+//       "publishedAt": "2023-08-21T17:28:31Z",
+//       "content": "Back at CES in January, Samsung unveiled its upcoming ViewFinity S9 display, one of the closest competitors to Apple's Studio Display, and last month Samsung revealed that it would finally be launchi… [+1941 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "CNET"
+//       },
+//       "author": "Max McHone",
+//       "title": "Snag an Xbox Series S From Best Buy and Get a Free Copy of Madden NFL 24 - CNET",
+//       "description": "The game lists for $70 on its own, so getting a digital copy for free is a pretty solid bargain.",
+//       "url": "https://www.cnet.com/deals/snag-an-xbox-series-s-from-best-buy-and-get-a-free-copy-of-madden-nfl-24/",
+//       "urlToImage": "https://www.cnet.com/a/img/resize/902385e3d2199d4db1a21ffc0ac829422718f85e/hub/2023/08/21/d3c66c02-f50c-4294-bd57-6b67a30d40ff/xbox-series-s-and-madden-24-bundle.jpg?auto=webp&fit=crop&height=675&width=1200",
+//       "publishedAt": "2023-08-21T13:39:32Z",
+//       "content": "It's finally gotten easier to find the PlayStation 5 and Xbox Series X in stock, but the Xbox Series S is still the most affordable next-gen console on the market. This disk-free console lists for $3… [+1043 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MacRumors"
+//       },
+//       "author": "Juli Clover",
+//       "title": "Apple Support App Now Offers More Info on Nearby Locations",
+//       "description": "Apple today updated its Apple Support app to be more useful to customers who are looking to get help from a nearby Apple retail location or authorized repair shop.\n\n\n\n\n\nWhen searching for a store using the \"Locations\" feature in the app, there's now a Good to…",
+//       "url": "https://www.macrumors.com/2023/08/21/apple-support-app-nearby-locations/",
+//       "urlToImage": "https://images.macrumors.com/t/11eCJDZtRLVC3ztxFM5Kz8x1n4I=/2000x/article-new/2023/08/apple-support-app-update.jpg",
+//       "publishedAt": "2023-08-21T17:53:35Z",
+//       "content": "Apple today updated its Apple Support app to be more useful to customers who are looking to get help from a nearby Apple retail location or authorized repair shop.\r\nWhen searching for a store using t… [+1152 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MacRumors"
+//       },
+//       "author": "Joe Rossignol",
+//       "title": "Apple Podcasts Launches New Subscription Analytics Dashboard",
+//       "description": "Starting today, Apple Podcasts creators have access to a new Subscription Analytics dashboard that provides an overview of how their podcast subscriptions are performing. The free tool is available via the Apple Podcasts Connect website.\n\n\n\n\n\nOn the Overview …",
+//       "url": "https://www.macrumors.com/2023/08/21/apple-podcasts-subscription-analytics/",
+//       "urlToImage": "https://images.macrumors.com/t/xkeTjhOIIHG9bsgj8ciJGoBxB2k=/1600x/article-new/2023/08/Apple-Podcasts-Subscription-Analytics.jpg",
+//       "publishedAt": "2023-08-21T16:00:00Z",
+//       "content": "Starting today, Apple Podcasts creators have access to a new Subscription Analytics dashboard that provides an overview of how their podcast subscriptions are performing. The free tool is available v… [+1823 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MacRumors"
+//       },
+//       "author": "Hartley Charlton",
+//       "title": "Tesla App Update Adds Over 20 Apple Shortcuts Actions",
+//       "description": "The Tesla app for iOS gains official support for Apple Shortcuts with its latest update, version 4.24.\n\n\n\n\n\nThe update to the Tesla app brings support for over 20 Shortcuts actions, allowing users to get quick access to many of their vehicle's functions, issu…",
+//       "url": "https://www.macrumors.com/2023/08/21/tesla-app-update-adds-apple-shortcuts-actions/",
+//       "urlToImage": "https://images.macrumors.com/t/eUkL1w_hj52-5TTXJEiHFQ0rEb4=/1600x/article-new/2020/12/tesla-red-orange-bg-feature.jpg",
+//       "publishedAt": "2023-08-21T11:48:58Z",
+//       "content": "The Tesla app for iOS gains official support for Apple Shortcuts with its latest update, version 4.24.\r\nThe update to the Tesla app brings support for over 20 Shortcuts actions, allowing users to get… [+1213 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MacRumors"
+//       },
+//       "author": "Hartley Charlton",
+//       "title": "'iPhone 15 Ultra' Could Still Replace 'Pro Max' Model This Year",
+//       "description": "Apple's upcoming high-end 6.7-inch iPhone 15 model may be called the \"‌iPhone 15‌ Ultra\" after all, replacing the \"Pro Max\" title, a new rumor claims.\n\n\n\n\n\nIn a September 2022 edition of his weekly \"Power On\" newsletter, Bloomberg's Mark Gurman said there was…",
+//       "url": "https://www.macrumors.com/2023/08/21/iphone-15-ultra-could-replace-pro-max/",
+//       "urlToImage": "https://images.macrumors.com/t/MDsOXjytTKNtOwyqV-133JzM-xE=/2500x/article-new/2022/12/iPhone-15-Ultra-Rumors-Thumb.jpg",
+//       "publishedAt": "2023-08-21T14:04:43Z",
+//       "content": "Apple's upcoming high-end 6.7-inch iPhone 15 model may be called the \"‌iPhone 15‌ Ultra\" after all, replacing the \"Pro Max\" title, a new rumor claims.\r\nIn a September 2022 edition of his weekly \"Powe… [+1750 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MacRumors"
+//       },
+//       "author": "Mitchel Broussard",
+//       "title": "Deals: Apple's 13.6-Inch MacBook Air Returns to Record Low Price of $949 ($150 Off)",
+//       "description": "B&H Photo today has discounts on a few of Apple's Mac computers, this time focusing on the 13.6-inch M2 MacBook Air. As of writing, these all-time low prices are only available from B&H Photo.\n\n\n\nNote: MacRumors is an affiliate partner with B&H Photo. When yo…",
+//       "url": "https://www.macrumors.com/2023/08/21/deals-13-6-inch-macbook-air-returns/",
+//       "urlToImage": "https://images.macrumors.com/t/4lRYMNMsy7b1Ydm3-yALUQfezbg=/2500x/article-new/2022/09/m2-macbook-air-pink.jpg",
+//       "publishedAt": "2023-08-21T13:58:08Z",
+//       "content": "B&amp;H Photo today has discounts on a few of Apple's Mac computers, this time focusing on the 13.6-inch M2 MacBook Air. As of writing, these all-time low prices are only available from B&amp;H Photo… [+832 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Slashdot.org"
+//       },
+//       "author": "EditorDavid",
+//       "title": "Adobe Co-founder and Ex-CEO John Warnock Has Died",
+//       "description": "Slashdot reader Dave Knott writes:\n\nJohn Warnock, co-founder and ex-CEO of Adobe, has died at the age of 82. Under his tenure, Adobe created Postscript, Acrobat, Photoshop, and many other technologies and software products that have become industry standards …",
+//       "url": "https://tech.slashdot.org/story/23/08/21/0343250/adobe-co-founder-and-ex-ceo-john-warnock-has-died",
+//       "urlToImage": "https://a.fsdn.com/sd/topics/gui_64.png",
+//       "publishedAt": "2023-08-21T11:34:00Z",
+//       "content": "Slashdot reader Dave Knott writes:\r\nJohn Warnock, co-founder and ex-CEO of Adobe, has died at the age of 82. Under his tenure, Adobe created Postscript, Acrobat, Photoshop, and many other technologie… [+2907 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": "business-insider",
+//         "name": "Business Insider"
+//       },
+//       "author": "Haley Tenore",
+//       "title": "This story of when Steve Jobs 'blew up' over a photographer is a classic example of what his biographer called 'Bad Steve'",
+//       "description": "Steve Jobs introduced the iMac 25 years ago, but he was apparently very picky about the photographers involved during a Wired press shoot.",
+//       "url": "https://www.businessinsider.com/steve-jobs-imac-photographer-story-2023-8",
+//       "urlToImage": "https://i.insider.com/64dfb53eb698ac0019dcacd3?width=1200&format=jpeg",
+//       "publishedAt": "2023-08-21T08:30:01Z",
+//       "content": "Steve Jobs introduced the iMac 25 years ago, but he was apparently very picky about even the photographers involved for a press shoot.William Stevens/Getty Images\r\n<ul>\n<li>Steve Jobs apparently \"ble… [+3371 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "ReadWrite"
+//       },
+//       "author": "Charlene Wan",
+//       "title": "5 Reasons You Should Buy a Smartband Instead of a Smartwatch",
+//       "description": "Did you know 1 in 5 Americans wear a smartwatch daily? Wearable technology usage has skyrocketed over the last few years, experiencing […]\nThe post 5 Reasons You Should Buy a Smartband Instead of a Smartwatch appeared first on ReadWrite.",
+//       "url": "https://readwrite.com/reasons-you-should-buy-a-smartband-instead-of-a-smartwatch/",
+//       "urlToImage": "https://readwrite.com/wp-content/uploads/2023/06/Smartband-vs.-Smartwatch.jpg",
+//       "publishedAt": "2023-08-21T18:55:54Z",
+//       "content": "Did you know 1 in 5 Americans wear a smartwatch daily? Wearable technology usage has skyrocketed over the last few years, experiencing a 100% jump from 2016 to 2019. The global wearable tech market w… [+4701 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "VentureBeat"
+//       },
+//       "author": "Dean Takahashi",
+//       "title": "Sandbox VR’s Deadwood Valley surpasses $23M in a year at physical venues",
+//       "description": "Sandbox VR's Deadwood Valley game has generated $23 million in the last year at just 30 locations. The firm thinks it can hit $100 million.",
+//       "url": "https://venturebeat.com/metaverse/sandbox-vrs-deadwood-valley-surpasses-23m-in-a-year-at-physical-venues/",
+//       "urlToImage": "https://venturebeat.com/wp-content/uploads/2021/07/sandbox-vr-10.jpg?w=1200&strip=all",
+//       "publishedAt": "2023-08-21T14:30:00Z",
+//       "content": "We're thrilled to announce the return of GamesBeat Summit Next, hosted in San Francisco this October, where we will explore the theme of \"Playing the Edge.\" Apply to speak here and learn more about s… [+7540 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "VentureBeat"
+//       },
+//       "author": "Dean Takahashi",
+//       "title": "Made on Earth Games raises $3.25M for mobile 4X strategy game Everbright",
+//       "description": "Mobile game developer Made on Earth Games has raised $3.25 million in seed funding to launch the 4X strategy game, Everbright.",
+//       "url": "https://venturebeat.com/games/made-on-earth-games-raises-3-25m-for-mobile-4x-strategy-game-everbright/",
+//       "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/08/MadeonEarthGames_Promoart-Everbright.jpg?w=1200&strip=all",
+//       "publishedAt": "2023-08-21T13:30:00Z",
+//       "content": "We're thrilled to announce the return of GamesBeat Summit Next, hosted in San Francisco this October, where we will explore the theme of \"Playing the Edge.\" Apply to speak here and learn more about s… [+5313 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Hipertextual"
+//       },
+//       "author": "Tomás Rivero",
+//       "title": "Olvídate de resolver más pruebas CAPTCHA con esta extensión de Chrome: así funciona",
+//       "description": "La necesidad de resolver pruebas CAPTCHA se ha extendido a la mayoría de sitios web donde es necesario iniciar sesión. De esta forma, los servidores confirman que somos un ser humano real y no un bot de internet, al menos en teoría. Sin embargo, pueden conver…",
+//       "url": "http://hipertextual.com/2023/08/extension-chrome-resuelve-tests-captcha-por-ti-asi-funciona",
+//       "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/08/Robots-captcha.jpg?fit=2200%2C1238&quality=50&strip=all&ssl=1",
+//       "publishedAt": "2023-08-21T14:02:00Z",
+//       "content": "La necesidad de resolver pruebas CAPTCHA se ha extendido a la mayoría de sitios web donde es necesario iniciar sesión. De esta forma, los servidores confirman que somos un ser humano real y no un bot… [+3341 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Xataka.com"
+//       },
+//       "author": "Ricardo Aguilar",
+//       "title": "\"Oye Siri, carga mi Tesla\". La app de Tesla se actualiza a lo grande integrando Atajos de Apple",
+//       "description": "La aplicación de Tesla para iOS y los Atajos del sistema operativo de Apple por fin se entienden a la perfección de forma nativa. Con la versión 4.24.0, publicada en la tienda de aplicaciones de Apple el pasado día 18, el listado de cambios deja claro el foco…",
+//       "url": "https://www.xataka.com/movilidad/oye-siri-carga-mi-tesla-app-tesla-se-actualiza-a-grande-integrando-atajos-apple",
+//       "urlToImage": "https://i.blogs.es/075e75/1366_2000-2-/840_560.jpeg",
+//       "publishedAt": "2023-08-21T07:00:02Z",
+//       "content": "La aplicación de Tesla para iOS y los Atajos del sistema operativo de Apple por fin se entienden a la perfección de forma nativa. Con la versión 4.24.0, publicada en la tienda de aplicaciones de Appl… [+1596 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": "fox-news",
+//         "name": "Fox News"
+//       },
+//       "author": "Kurt Knutsson, CyberGuy Report",
+//       "title": "Best prompts to get the most out of an AI chatbot",
+//       "description": "Using AI-powered chatbots is very helpful. Kurt \"CyberGuy\" Knutsson helps explains some prompts to make your answers specific what questions to avoid.",
+//       "url": "https://www.foxnews.com/tech/best-prompts-get-most-ai-chatbot",
+//       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/1-SIMPLE-EXPLANATION.jpg",
+//       "publishedAt": "2023-08-21T19:00:28Z",
+//       "content": "People love using AI chatbots to assist them with tasks or to simply answer a question that they don't know the answer to. However, a chatbot can only answer to the best of its ability, and we have t… [+9721 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "The New Yorker"
+//       },
+//       "author": "Bianca Stone",
+//       "title": "“What’s Poetry Like?,” by Bianca Stone",
+//       "description": "Poetry by Bianca Stone: “Poets play the winter tarantella, / making love in the midnight hours / on a white iron bed like a dog skeleton.”",
+//       "url": "https://www.newyorker.com/magazine/2023/08/28/whats-poetry-like-bianca-stone-poem",
+//       "urlToImage": "https://media.newyorker.com/photos/5d484bf0773ec90008696e12/16:9/w_1280,c_limit/hp-poetryspots2.jpg",
+//       "publishedAt": "2023-08-21T10:00:00Z",
+//       "content": "Poets play the winter tarantella,making love in the midnight hourson a white iron bed like a dog skeletondistinguishing the essential and unessentialmoment, shared between ordinary lunaticsand scream… [+1841 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "The New Yorker"
+//       },
+//       "author": "Sam Knight",
+//       "title": "Is Beekeeping Wrong?",
+//       "description": "Parasites and pesticides have brought chaos to bee colonies throughout the world, Sam Knight writes. Natural beekeepers want to transform our relationship to the hive.",
+//       "url": "https://www.newyorker.com/magazine/2023/08/28/is-beekeeping-wrong",
+//       "urlToImage": "https://media.newyorker.com/photos/64de67f53b391db87dffd19d/16:9/w_1280,c_limit/230828_r42842.jpg",
+//       "publishedAt": "2023-08-21T10:00:00Z",
+//       "content": "On a hot, pollen-dazed morning this summer, I stopped by the house of Gareth John, a retired agricultural ecologist, who lives on a quiet lane above a river in Oxfordshire, to take a look at his bees… [+8737 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Digital Trends"
+//       },
+//       "author": "Christine Romero-Chan",
+//       "title": "The Apple Watch X could change everything. Here are 6 things I want to see",
+//       "description": "Rumors suggest the Apple Watch X is coming in 2024 or 2025 — and it should be a huge upgrade. Whenever it gets here, these are a few things I hope to see.",
+//       "url": "https://www.digitaltrends.com/mobile/apple-watch-x-what-i-want-to-see/",
+//       "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/08/apple-watch-ultra-watchos-10-widgets.jpg?resize=1200%2C630&p=1",
+//       "publishedAt": "2023-08-21T12:00:20Z",
+//       "content": "Joe Maring / Digital Trends\r\nThe original Apple Watch was announced in September 2014, with the actual product release in April 2015. While we’re getting the Apple Watch Series 9 next month, it’s lik… [+8690 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Digital Trends"
+//       },
+//       "author": "Joe Maring",
+//       "title": "I thought I’d hate the Galaxy Z Flip 5 — until I changed one thing",
+//       "description": "I've been using the Galaxy Z Flip 5 for a few weeks now, and I really, really love it. But it didn't start out that way.",
+//       "url": "https://www.digitaltrends.com/mobile/i-thought-id-hate-samsung-galaxy-z-flip-5-until-i-changed-one-thing/",
+//       "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-cover-screen-apps-7.jpg?resize=1200%2C630&p=1",
+//       "publishedAt": "2023-08-21T14:00:20Z",
+//       "content": "Joe Maring / Digital Trends\r\nIt’s been a little under a month since I got my Samsung Galaxy Z Flip 5, and throughout most of that time, I’ve thoroughly enjoyed every second with it. I was already qui… [+5947 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Henrikkarlsson.xyz"
+//       },
+//       "author": "Henrik Karlsson",
+//       "title": "When I have a slower publishing cadence my blog grows faster",
+//       "description": "When I started writing online, the advice I got was to publish frequently and not overthink any single piece. The logic was this: the outcome for blog posts is a heavy-tailed statistical distribution—most pieces will be read by barely anyone, but a small subs…",
+//       "url": "https://www.henrikkarlsson.xyz/p/effort-pieces",
+//       "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcace8dea-91be-4021-8d1a-553e4a3e0373_1600x1311.jpeg",
+//       "publishedAt": "2023-08-21T17:00:09Z",
+//       "content": "Airborne, Andrew Wyeth, 1995\r\nWhen I started writing online, the advice I got was to publish frequently and not overthink any single piece. The logic was this: the outcome for blog posts is a heavy-t… [+7859 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "heise online"
+//       },
+//       "author": "Leo Becker",
+//       "title": "App-spezifische Passwörter: Apple sperrt eigenen Browser aus",
+//       "description": "Eine wichtige Sicherheitsfunktion von iCloud respektive Apple-ID lässt sich ausgerechnet mit Apples Standard-Browser Safari aktuell nicht nutzen.",
+//       "url": "https://www.heise.de/news/App-spezifische-Passwoerter-Apple-sperrt-eigenen-Browser-aus-9275731.html",
+//       "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/9/5/6/4/shutterstock_1543755335-ca9e66a9aa59f2e2.jpg",
+//       "publishedAt": "2023-08-21T15:47:00Z",
+//       "content": "Ein wichtiger Web-Dienst von Apple ist derzeit nicht mehr über den vorinstallierten Browser des Herstellers verfügbar: Der Versuch, anwendungsspezifische Passwörter für die Apple-ID einzurichten, sch… [+2497 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "heise online"
+//       },
+//       "author": "Ben Schwan",
+//       "title": "iPhone: Tesla-App unterstützt Kurzbefehle – und damit Siri",
+//       "description": "Tesla gibt sich oft sehr zurückhaltend, was die Unterstützung nativer iOS-Funktionen betrifft. Nun kommt nach langer Wartezeit endlich Support für Kurzbefehle.",
+//       "url": "https://www.heise.de/news/iPhone-Tesla-App-unterstuetzt-Kurzbefehle-und-damit-Siri-9268719.html",
+//       "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/9/1/5/6/tesla_iphone-7f1ba46aa458ccb9.png",
+//       "publishedAt": "2023-08-21T08:44:00Z",
+//       "content": "Tesla hat eine neue Variante seiner offiziellen iPhone-App veröffentlicht. Das zum Wochenende erschienene Update bringt trotz der geringen Versionsnummererhöhung auf 4.24.0 eine zentrale Verbesserung… [+2126 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "heise online"
+//       },
+//       "author": "Oliver Bünte",
+//       "title": "Meta: Zu viel Homeoffice soll Kündigung nach sich ziehen",
+//       "description": "Meta will wieder mehr Mitarbeiter im Büro sehen und schränkt die Homeoffice-Regelungen ein. Nichtbefolgung wird geahndet.",
+//       "url": "https://www.heise.de/news/Meta-Zu-viel-Homeoffice-soll-Kuendigung-nach-sich-ziehen-9275766.html",
+//       "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/9/5/8/2/Homeoffice-e2f1ad5727d34241.jpg",
+//       "publishedAt": "2023-08-21T16:42:00Z",
+//       "content": "Meta droht seinen Mitarbeitern mit Konsequenzen bis hin zur Kündigung, falls sie nicht ab dem 5. September 2023 an mindestens drei Tagen pro Woche im Büro anwesend sind. Das geht aus einer internen M… [+1915 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "heise online"
+//       },
+//       "author": "Ben Schwan",
+//       "title": "Arc-Browser auch mobil nutzbar – aber nur auf dem iPhone",
+//       "description": "Der Arc-Browser kann nicht nur auf dem Mac genutzt werden, sondern auch unterwegs.  Der \"Mobile Companion\" ist bislang noch nicht sehr bekannt.",
+//       "url": "https://www.heise.de/news/Arc-Browser-auch-mobil-nutzbar-aber-nur-auf-dem-iPhone-9267873.html",
+//       "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/8/7/1/4/arc_browser_ios-3e96c869aa14d59c.png",
+//       "publishedAt": "2023-08-21T07:41:00Z",
+//       "content": "Der zunehmend beliebte Alternativ-Browser Arc, der unter macOS auf einer Chrome-Basis läuft, steht auch als Mobilversion zur Verfügung. Der Hersteller The Browser Company bezeichnet die App explizit … [+2046 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "heise online"
+//       },
+//       "author": "Andreas Knobloch",
+//       "title": "Montag: Bolsonaro wollte Hacker engagieren, Russlands Mondsonde abgestürzt",
+//       "description": "Hacker sollte Wahlmaschinen manipulieren + Mondmission gescheitert + Kritik an Musks Plänen + Meta soll Nachrichtensperre aufheben + Regeln für KI gefordert",
+//       "url": "https://www.heise.de/news/Montag-Bolsonaro-wollte-Hacker-engagieren-Russlands-Mondsonde-abgestuerzt-9268519.html",
+//       "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/9/0/4/2/Wochentage-source-sans-3fabaeb383a322de.png",
+//       "publishedAt": "2023-08-21T04:30:00Z",
+//       "content": "Ein brasilianischer Hacker behauptet, er sei von Ex-Präsident Jair Bolsonaro angeheuert worden, um die elektronischen Wahlurnen bei den Wahlen 2022 zu manipulieren. So sollten Zweifel am Wahlsystem g… [+4287 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "9to5Mac"
+//       },
+//       "author": "Zac Hall",
+//       "title": "Apple announces podcast subscription analytics, Linkfire partnership, and more",
+//       "description": "Apple Podcasts is introducing three new updates for podcast producers today including a subscription analytics dashboard. Apple Podcasts has supported...",
+//       "url": "https://9to5mac.com/2023/08/21/apple-podcasts-analytics-delegated-delivery-linkfire/",
+//       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Apple-Podcasts-iOS-16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+//       "publishedAt": "2023-08-21T16:28:51Z",
+//       "content": "Apple Podcasts is introducing three new updates for podcast producers today including a subscription analytics dashboard.\r\nApple Podcasts has supported paid content for a few years now. Starting toda… [+1465 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "9to5Mac"
+//       },
+//       "author": "Michael Potuck",
+//       "title": "Apple Support app update brings accessibility and specialty services details",
+//       "description": "After launching a big overhaul of the Apple Support app in May and expanding it to Vietnam, Apple has released a small but useful update for the app today that brings more details about nearby locations.\n\n\n\n more…",
+//       "url": "https://9to5mac.com/2023/08/21/apple-support-app-update-5-1/",
+//       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/IMG_3353.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+//       "publishedAt": "2023-08-21T17:53:04Z",
+//       "content": "After launching a big overhaul of the Apple Support app in May and expanding it to Vietnam, Apple has released a small but useful update for the app today that brings more details about nearby locati… [+742 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "9to5Mac"
+//       },
+//       "author": "Michael Potuck",
+//       "title": "Do’s and don’ts for cleaning your dirty Apple Watch band",
+//       "description": "A recent study has found our Apple Watch bands are home to dangerous bacteria, highlighting the importance of regularly cleaning them. But what’s safe or best to use? Here’s how to clean Apple Watch bands with step-by-step do’s and don’ts.\n\n\n\n more…",
+//       "url": "https://9to5mac.com/2023/08/21/how-to-clean-apple-watch-bands/",
+//       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/how-to-clean-apple-watch-bands.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+//       "publishedAt": "2023-08-21T17:30:00Z",
+//       "content": "A recent study has found our Apple Watch bands are home to dangerous bacteria, highlighting the importance of regularly cleaning them. But whats safe or best to use? Here’s how to clean Apple Watch b… [+2115 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "9to5Mac"
+//       },
+//       "author": "Zac Hall",
+//       "title": "iPhone 15 rumors: ‘Ultra’ name potential, braided USB-C cables",
+//       "description": "We’re three weeks out from when we expect Apple to officially announce the iPhone 15 line, and that’s plenty of time for a new round of rumors to come to life.\n\n\n\n more…",
+//       "url": "https://9to5mac.com/2023/08/21/iphone-15-braided-usb-c-cable/",
+//       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/iPhone-15-Pro-Action-button.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+//       "publishedAt": "2023-08-21T12:58:39Z",
+//       "content": "We’re three weeks out from when we expect Apple to officially announce the iPhone 15 line, and that’s plenty of time for a new round of rumors to come to life.\r\nApple will replace the Lightning charg… [+2259 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "9to5Mac"
+//       },
+//       "author": "Rikka Altland",
+//       "title": "Deals: Apple MagSafe Battery Pack $84, iPhone 13/Pro/Max from $530, more",
+//       "description": "All of Monday’s best deals are now live and headlined by the best price of the year on Apple’s official MagSafe Battery Pack at $84. Joined by new all-time lows on Apple’s iPhone 13/Pro/Max smartphones, pricing starts from $530 to help you score a new handset…",
+//       "url": "https://9to5mac.com/2023/08/21/deals-apple-magsafe-battery-pack-84-iphone-13-pro-max-from-530-more/",
+//       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/magsafe-battery-pack.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+//       "publishedAt": "2023-08-21T15:53:34Z",
+//       "content": "All of Monday’s best deals are now live and headlined by the best price of the year on Apples official MagSafe Battery Pack at $84. Joined by new all-time lows on Apples iPhone 13/Pro/Max smartphones… [+4116 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "9to5Mac"
+//       },
+//       "author": "Michael Potuck",
+//       "title": "T-Mobile wants to pay for half of your new iPhone every year with ‘Go5G Next’",
+//       "description": "T-Mobile announced its latest wireless plan back in April called Go5G Plus with 24-month installment terms, a 30-day money-back guarantee, pricing below Verizon/AT&T, and more. Now the Uncarrier is back with Go5G Next which includes a new phone every year wit…",
+//       "url": "https://9to5mac.com/2023/08/21/t-mobile-pay-for-half-your-new-iphone-every-year/",
+//       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/t-mobile-go5g-next.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+//       "publishedAt": "2023-08-21T14:05:27Z",
+//       "content": "T-Mobile announced its latest wireless plan back in April called Go5G Plus with 24-month installment terms, a 30-day money-back guarantee, pricing below Verizon/AT&amp;T, and more. Now the Uncarrier … [+2860 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Genbeta.com"
+//       },
+//       "author": "Marcos Merino",
+//       "title": "A Elon Musk le corrigen sus usuarios: si insiste en suprimir los bloqueos, Twitter (o X) se verá fuera de las tiendas de apps",
+//       "description": "El viernes nos hacíamos eco de la última polémica de Elon Musk en su faceta de propietario de Twitter (ahora X): su pretensión de suprimir la función de bloquear a otros usuarios en la plataforma, algo que no fue acogido precisamente con los brazos abiertos p…",
+//       "url": "https://www.genbeta.com/actualidad/a-elon-musk-le-corrigen-sus-usuarios-insiste-suprimir-bloqueos-twitter-x-se-vera-fuera-tiendas-apps",
+//       "urlToImage": "https://i.blogs.es/9c60eb/musk_block/840_560.jpeg",
+//       "publishedAt": "2023-08-21T14:11:52Z",
+//       "content": "El viernes nos hacíamos eco de la última polémica de Elon Musk en su faceta de propietario de Twitter (ahora X): su pretensión de suprimir la función de bloquear a otros usuarios en la plataforma, al… [+2591 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Scientific American"
+//       },
+//       "author": "Jacob Job, Scientific American",
+//       "title": "Using Human-Sized Microphones and Hay Bales, They Unlocked the Mysteries of Bird Migration",
+//       "description": "For thousands of years, no one&nbsp; truly&nbsp; knew how birds migrated&mdash;that is until a few unlikely pioneers sat, with hundreds of pounds of kludged together recording gear, in an empty field waiting to hear sounds that no one had ever captured",
+//       "url": "https://www.scientificamerican.com/podcast/episode/using-human-sized-microphones-and-hay-bales-they-unlocked-the-mysteries-of-bird-migration/",
+//       "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/88017C56-26E0-448E-8B747E35A7155BC9.gif",
+//       "publishedAt": "2023-08-21T12:00:00Z",
+//       "content": "SUBSCRIBE: Apple | Spotify\r\n[CLIP: Historical audio of nocturnal flight calls]\r\nJacob Job: This recording that you are listening to is 66 years old. And it was the first of its kind—ever. After that … [+13917 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "AppleInsider"
+//       },
+//       "author": "news@appleinsider.com (Malcolm Owen)",
+//       "title": "Are you the world's biggest Apple fan? Here's how to find out",
+//       "description": "A competition is trying to find the biggest Apple fan in the world, with the winner crowned the ultimate Apple superfan and winning an Apple Watch.Apple Watch Series 8, the prize in the competitionLaunched by price comparison site SellCell.com, the Battle of …",
+//       "url": "https://appleinsider.com/articles/23/08/21/are-you-the-worlds-biggest-apple-fan-heres-how-to-find-out",
+//       "urlToImage": "https://photos5.appleinsider.com/gallery/55947-113583-50481-99370-Watch-Face-head-On-xl-xl.jpg",
+//       "publishedAt": "2023-08-21T12:59:18Z",
+//       "content": "Apple Watch Series 8, the prize in the competition\r\nA competition is trying to find the biggest Apple fan in the world, with the winner crowned the ultimate Apple superfan and winning an Apple Watch.… [+1264 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "AppleInsider"
+//       },
+//       "author": "news@appleinsider.com (Amber Neely)",
+//       "title": "Apple Podcasts rolls out new data analytics dashboard for content creators",
+//       "description": "Podcast creators can now take advantage of a new subscription dashboard in Apple Podcasts Connect to view subscription rates, proceeds, and more.Image Credit: AppleOn Monday, Apple launched a new subscription analytics dashboard in Apple Podcast Connect that …",
+//       "url": "https://appleinsider.com/articles/23/08/21/apple-podcasts-rolls-out-new-data-analytics-dashboard-for-content-creators",
+//       "urlToImage": "https://photos5.appleinsider.com/gallery/55953-113593-header-xl.jpg",
+//       "publishedAt": "2023-08-21T16:52:18Z",
+//       "content": "Image Credit: Apple\r\nPodcast creators can now take advantage of a new subscription dashboard in Apple Podcasts Connect to view subscription rates, proceeds, and more.\r\nOn Monday, Apple launched a new… [+1867 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "AppleInsider"
+//       },
+//       "author": "news@appleinsider.com (Malcolm Owen)",
+//       "title": "Apple is unsurprisingly already working on A19 and M5 chips",
+//       "description": "Apple's chip design and production process has to work far in advance, and some sleuthing indicates it has reached the A19 and M5 chip generations.Designing major products like the iPhone takes Apple a considerable amount of time, with years of effort going i…",
+//       "url": "https://appleinsider.com/articles/23/08/21/apple-is-unsurprisingly-already-working-on-a19-and-m5-chips",
+//       "urlToImage": "https://photos5.appleinsider.com/gallery/55949-113587-New-Chips-codes-xl.jpg",
+//       "publishedAt": "2023-08-21T14:31:39Z",
+//       "content": "Apple's chip design and production process has to work far in advance, and some sleuthing indicates it has reached the A19 and M5 chip generations. \r\nDesigning major products like the iPhone takes Ap… [+2254 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "AppleInsider"
+//       },
+//       "author": "news@appleinsider.com (Malcolm Owen)",
+//       "title": "Apple Game Porting Toolkit is easier to set up using a new installer",
+//       "description": "An easier way to install Apple's Game Porting Toolkit on a Mac has been introduced, thanks to a third-party installer that handles the tricky bits of the installation process.The Apple Game Porting Toolkit provides developers a way to see how games produced f…",
+//       "url": "https://appleinsider.com/articles/23/08/21/apple-game-porting-toolkit-is-easier-to-set-up-using-a-new-installer",
+//       "urlToImage": "https://photos5.appleinsider.com/gallery/55943-113578-55224-112155-54815-110960-gameonmacbook-xl-xl-xl.jpg",
+//       "publishedAt": "2023-08-21T10:59:29Z",
+//       "content": "An easier way to install Apple's Game Porting Toolkit on a Mac has been introduced, thanks to a third-party installer that handles the tricky bits of the installation process. \r\nThe Apple Game Portin… [+1660 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "AppleInsider"
+//       },
+//       "author": "news@appleinsider.com (Jess Pingrey)",
+//       "title": "Daily deals Aug. 21: AirPods Pro $199, $800 off M1 MacBook Pro, 30% off Pixelmator Pro, more",
+//       "description": "Today's top deals include an Apple Watch Series 6 from $166, 58% off an AMD Ryzen 7 desktop processor, 64% off a Google Pixel 4, $200 off a Bose Smart soundbar, and more.Save $800 on a M1 MacBook ProThe AppleInsider team combs the internet for unbeatable disc…",
+//       "url": "https://appleinsider.com/articles/23/08/21/daily-deals-aug-21-airpods-pro-199-800-off-m1-macbook-pro-30-off-pixelmator-pro-more",
+//       "urlToImage": "https://photos5.appleinsider.com/gallery/55938-113584-daily-deals-Aug-21-xl.jpg",
+//       "publishedAt": "2023-08-21T16:42:55Z",
+//       "content": "Save $800 on a M1 MacBook Pro\r\nToday's top deals include an Apple Watch Series 6 from $166, 58% off an AMD Ryzen 7 desktop processor, 64% off a Google Pixel 4, $200 off a Bose Smart soundbar, and mor… [+2942 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "AppleInsider"
+//       },
+//       "author": "news@appleinsider.com (Andrew O'Hara)",
+//       "title": "Eve Cam 2 leaks, Aqara's T1 light strip, and more on the HomeKit Insider Podcast",
+//       "description": "On this week's episode of the HomeKit Insider podcast, your hosts break down the leaked Eve Cam 2, Masonite's newly-available smart door, and more smart home news.HomeKit InsiderSince the last episode, we saw an unreleased version of the Eve Cam show up in re…",
+//       "url": "https://appleinsider.com/articles/23/08/21/eve-cam-2-leaks-aqaras-t1-light-strip-and-more-on-the-homekit-insider-podcast",
+//       "urlToImage": "https://photos5.appleinsider.com/gallery/46889-91403-HKI-Header-xl.jpg",
+//       "publishedAt": "2023-08-21T13:20:06Z",
+//       "content": "HomeKit Insider\r\nOn this week's episode of the HomeKit Insider podcast, your hosts break down the leaked Eve Cam 2, Masonite's newly-available smart door, and more smart home news.\r\nSince the last ep… [+1622 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "AppleInsider"
+//       },
+//       "author": "news@appleinsider.com (William Gallagher)",
+//       "title": "How to use the new Kanban feature in Reminders on macOS Sonoma",
+//       "description": "Apple has added a view to Reminders which shows you tasks in the Kanban column style. Here's how to use it on the Mac, and also the iPad, plus why not to bother on the iPhone.Reminders now optionally features this visual layout of tasks, known as a Kanban vie…",
+//       "url": "https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-the-new-kanban-feature-in-reminders-on-macos-sonoma",
+//       "urlToImage": "https://photos5.appleinsider.com/gallery/55951-113589-000-lead-Kanban-Reminders-xl.jpg",
+//       "publishedAt": "2023-08-21T18:08:44Z",
+//       "content": "Reminders now optionally features this visual layout of tasks, known as a Kanban view\r\nApple has added a view to Reminders which shows you tasks in the Kanban column style. Here's how to use it on th… [+4261 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "AppleInsider"
+//       },
+//       "author": "news@appleinsider.com (Malcolm Owen)",
+//       "title": "iPhone 15 could get braided & color-matched USB-C cables",
+//       "description": "A pair of leakers claim photographs of braided USB-C cables show what to expect from Apple's iPhone 15 launch, with multiple cable color options expected to be on the way.USB-C cables rumored to work with the iPhone 15 [X/@KosutamiSan]On Saturday, serial leak…",
+//       "url": "https://appleinsider.com/articles/23/08/21/iphone-15-could-get-braided-color-matched-usb-c-cables",
+//       "urlToImage": "https://photos5.appleinsider.com/gallery/55945-113579-usbciphonerumoraug12-xl.jpg",
+//       "publishedAt": "2023-08-21T11:45:02Z",
+//       "content": "USB-C cables rumored to work with the iPhone 15 [X/@KosutamiSan]\r\nA pair of leakers claim photographs of braided USB-C cables show what to expect from Apple's iPhone 15 launch, with multiple cable co… [+1932 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Gizmodo.jp"
+//       },
+//       "author": "そうこ",
+//       "title": "iPhone 15の生産台数カット。「販売台数」では勝負しない",
+//       "description": "来月発表が期待される2023年のApple（アップル）のフラッグシップスマホiPhone 15。毎年、販売台数が話題になりますが、今年のAppleはそこには期待薄のよう…。",
+//       "url": "https://www.gizmodo.jp/2023/08/iphone-15-apple-cuts-production-slow-demand-analyst.html",
+//       "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/08/18/230818iphonesales.jpg?w=1280&h=630&f=jpg",
+//       "publishedAt": "2023-08-21T02:00:00Z",
+//       "content": "2023AppleiPhone 15Apple\r\n9to5MacAppleiPhone 15\r\niPhone 158500BloombergApple\r\nApple\r\niPhone 15\r\n2Jeff Pu\r\niPhone 15Pro\r\nJeff Fieldhack115000\r\n20136\r\nAppleCEO\r\nMacAppleApple"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Yanko Design"
+//       },
+//       "author": "Gaurav Sood",
+//       "title": "Samsung Galaxy S24 Ultra poised to get design overhaul, conceptualized in a fresh video",
+//       "description": "Samsung Galaxy S24 Ultra poised to get design overhaul, conceptualized in a fresh videoWhen it comes to smartphone battles every year, Samsung is the closest rival to Apple rubbing shoulders for supremacy. The two heavyweights match punch to...",
+//       "url": "https://www.yankodesign.com/2023/08/21/samsung-galaxy-s24-ultra-poised-to-get-design-overhaul-conceptualized-in-a-fresh-video/",
+//       "urlToImage": "https://www.yankodesign.com/images/design_news/2023/08/samsung-galaxy-s24-ultra-poised-to-get-design-overhaul-conceptualized-in-a-fresh-video/Samsung-Galaxy-S24-4.jpg",
+//       "publishedAt": "2023-08-21T18:25:48Z",
+//       "content": "When it comes to smartphone battles every year, Samsung is the closest rival to Apple rubbing shoulders for supremacy. The two heavyweights match punch to punch with their own set of advantages and a… [+2403 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Applesfera.com"
+//       },
+//       "author": "Miguel López",
+//       "title": "La Apple Card puede tener problemas, pero es la mejor tarjeta de crédito que existe según este estudio",
+//       "description": "La tarjeta de crédito de Apple no está libre de complicaciones. Sigue siendo exclusiva de los Estados Unidos después de varios años, y Goldman Sachs ha perdido 10.000 millones de dólares tras ser el apoyo financiero del producto. No, la Apple Card no es perfe…",
+//       "url": "https://www.applesfera.com/servicios-apple/apple-card-puede-tener-problemas-mejor-tarjeta-credito-que-existe-este-estudio",
+//       "urlToImage": "https://i.blogs.es/dfe493/1366_2000/840_560.jpeg",
+//       "publishedAt": "2023-08-21T09:49:49Z",
+//       "content": "La tarjeta de crédito de Apple no está libre de complicaciones. Sigue siendo exclusiva de los Estados Unidos después de varios años, y Goldman Sachs ha perdido 10.000 millones de dólares tras ser el … [+1919 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Applesfera.com"
+//       },
+//       "author": "Fran Bouzas",
+//       "title": "Cómo devolver una compra a Apple: pasos a seguir para devoluciones de productos",
+//       "description": "Los productos Apple son de lo mejor que hay en el mercado. No es casualidad que sea la empresa más valiosa de la historia. Su software, hardware y ecosistema hacen que muchos nos decantemos exclusivamente por ellos cada vez que necesitamos un producto tecnoló…",
+//       "url": "https://www.applesfera.com/tutoriales/como-devolver-compra-a-apple-pasos-a-seguir-para-devoluciones-productos",
+//       "urlToImage": "https://i.blogs.es/651a24/1366_2000-9-/840_560.jpeg",
+//       "publishedAt": "2023-08-21T16:21:08Z",
+//       "content": "Los productos Apple son de lo mejor que hay en el mercado. No es casualidad que sea la empresa más valiosa de la historia. Su software, hardware y ecosistema hacen que muchos nos decantemos exclusiva… [+4288 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Applesfera.com"
+//       },
+//       "author": "Jesús Quesada",
+//       "title": "Los \"AirPods Pro\" de Sennheiser nunca han estado tan rebajados y prometen estupenda cancelación de ruido y autonomía",
+//       "description": "Está rebajada una de las mejores alternativas a los AirPods Pro de Apple. Los Sennheiser MOMENTUM True Wireless 3 son unos auriculares Bluetooth con gran calidad de construcción, sonido y cancelación de ruido activa que están más rebajados que nunca en Amazon…",
+//       "url": "https://www.applesfera.com/seleccion/airpods-pro-sennheiser-nunca-han-estado-rebajado-prometen-estupenda-cancelacion-ruido-autonomia",
+//       "urlToImage": "https://i.blogs.es/9c110a/auriculares-sennheiser/840_560.jpeg",
+//       "publishedAt": "2023-08-21T08:30:52Z",
+//       "content": "Está rebajada una de las mejores alternativas a los AirPods Pro de Apple. Los Sennheiser MOMENTUM True Wireless 3 son unos auriculares Bluetooth con gran calidad de construcción, sonido y cancelación… [+3134 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Applesfera.com"
+//       },
+//       "author": "Fran Bouzas",
+//       "title": "La gran fábrica del mundo ya no quiere hacer iPhones: los jóvenes asiáticos exigen mejores sueldos y proyectos de vida más prósperos",
+//       "description": "China ha sido durante años el lugar en el que se fabricaba absolutamente todo lo que tenía que ver con la electrónica. Eran rápidos, buenos, eficaces, baratos y obedientes. Es algo inherente a su cultura, aunque con los años y las generaciones, las cosas camb…",
+//       "url": "https://www.applesfera.com/apple-1/gran-fabrica-mundo-no-quiere-hacer-iphones-jovenes-asiaticos-exigen-mejores-sueldos-proyectos-vida-prosperos",
+//       "urlToImage": "https://i.blogs.es/8ec578/foxconn-smartphone-revenue-dropped-15-in-q2-1-/840_560.jpeg",
+//       "publishedAt": "2023-08-21T13:33:52Z",
+//       "content": "China ha sido durante años el lugar en el que se fabricaba absolutamente todo lo que tenía que ver con la electrónica. Eran rápidos, buenos, eficaces, baratos y obedientes. Es algo inherente a su cul… [+3898 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Applesfera.com"
+//       },
+//       "author": "Miguel López",
+//       "title": "El iPhone 15 y su puerto USB-C cumplirán algo que Apple tenía pendiente desde hace años, aunque lo hará a medias",
+//       "description": "Puede que aún estemos disfrutando (o sufriendo) el mes de agosto, pero el reloj avanza y queda ya muy poco para que Apple confirme su presentación del iPhone 15 para el mes que viene. Ya sabemos que una de sus principales novedades va a ser la llegada del pue…",
+//       "url": "https://www.applesfera.com/iphone/iphone-15-su-puerto-usb-c-cumpliran-algo-que-apple-tenia-pendiente-hace-anos-hara-a-medias",
+//       "urlToImage": "https://i.blogs.es/71277f/captura-de-pantalla-2023-08-21-a-las-10.14.54/840_560.jpeg",
+//       "publishedAt": "2023-08-21T08:24:01Z",
+//       "content": "Puede que aún estemos disfrutando (o sufriendo) el mes de agosto, pero el reloj avanza y queda ya muy poco para que Apple confirme su presentación del iPhone 15 para el mes que viene. Ya sabemos que … [+2313 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Applesfera.com"
+//       },
+//       "author": "Alberto García",
+//       "title": "El organizador de cables mejor valorado en Amazon es bonito, compacto e ideal para nuestros dispositivos de Apple y otras marcas",
+//       "description": "Cada vez tenemos más dispositivos en casa, lo que complica el tenerlo todo ordenado sobre todo si hemos adoptado el teletrabajo. Para ello, hay muchas soluciones bastante prácticas, pero si queremos ir a lo seguro (y a lo barato), podemos encontrar el organiz…",
+//       "url": "https://www.applesfera.com/seleccion/organizador-cables-mejor-valorado-amazon-bonito-compacto-e-ideal-para-nuestros-dispositivos-apple-otras-marcas",
+//       "urlToImage": "https://i.blogs.es/c7f67f/organizador-de-cables/840_560.jpeg",
+//       "publishedAt": "2023-08-21T12:30:03Z",
+//       "content": "Cada vez tenemos más dispositivos en casa, lo que complica el tenerlo todo ordenado sobre todo si hemos adoptado el teletrabajo. Para ello, hay muchas soluciones bastante prácticas, pero si queremos … [+4255 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Applesfera.com"
+//       },
+//       "author": "Miguel López",
+//       "title": "Vuelve el iPhone 15 Ultra: el nombre resucita en una nueva filtración",
+//       "description": "Al fin y al cabo, lo que menos cuesta cambiar en el proceso de creación de un producto es su nombre. Hace ya tiempo que vimos aparecer el nombre de 'iPhone 15 Ultra' en la rumorología, como un modo de rebautizar al iPhone más grande y potente y darle un estat…",
+//       "url": "https://www.applesfera.com/iphone/vuelve-iphone-15-ultra-nombre-resucita-nueva-filtracion",
+//       "urlToImage": "https://i.blogs.es/5a8a38/captura-de-pantalla-2023-08-21-a-las-17.49.28/840_560.jpeg",
+//       "publishedAt": "2023-08-21T17:16:28Z",
+//       "content": "Al fin y al cabo, lo que menos cuesta cambiar en el proceso de creación de un producto es su nombre. Hace ya tiempo que vimos aparecer el nombre de 'iPhone 15 Ultra' en la rumorología, como un modo d… [+1523 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Applesfera.com"
+//       },
+//       "author": "Fran Bouzas",
+//       "title": "\"Mis datos más íntimos están en la Dark Web\": así descubrirás si te han hackeado con esta funcionalidad de Google para iPhone y Mac",
+//       "description": "En la red existen dos tipos distintos de internet. Por un lado está el que conocemos todos. El que estás utilizando ahora mismo para leer este artículo. Google, Amazon, YouTube, Applesfera… y por otro tenemos la deep web. El internet oscuro. Un lugar del que …",
+//       "url": "https://www.applesfera.com/tutoriales/mis-datos-intimos-estan-dark-web-asi-descubriras-te-han-hackeado-esta-funcionalidad-google-para-iphone-mac",
+//       "urlToImage": "https://i.blogs.es/62b499/diseno-sin-titulo-31-/840_560.jpeg",
+//       "publishedAt": "2023-08-21T11:01:42Z",
+//       "content": "En la red existen dos tipos distintos de internet. Por un lado está el que conocemos todos. El que estás utilizando ahora mismo para leer este artículo. Google, Amazon, YouTube, Applesfera y por otro… [+1882 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MakeUseOf"
+//       },
+//       "author": "Joseph Chidi",
+//       "title": "MacBook Charging Slowly? Try These 6 Fixes",
+//       "description": "Is your MacBook taking several hours to charge fully? The issue could be hardware or software-related, but we'll help you fix it.",
+//       "url": "https://www.makeuseof.com/fixes-macbook-charging-slowly/",
+//       "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/macbook-charging-slowly-feature-image.jpg",
+//       "publishedAt": "2023-08-21T10:15:27Z",
+//       "content": "As a MacBook owner, one problem you could encounter from time to time is slow charging. A MacBook charging slowly can be a frustrating experience that can hamper your workflow and limit its mobility.… [+4713 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MakeUseOf"
+//       },
+//       "author": "Will Graf",
+//       "title": "How to Turn Off Automatic Brightness on Your Mac",
+//       "description": "Automatic brightness adjustment is convenient, but it's far from perfect. Plus, it's not everyone's cup of tea. Here's how to disable it on your Mac.",
+//       "url": "https://www.makeuseof.com/how-to-disable-automatic-brightness-on-mac/",
+//       "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/best-macbooks.jpg",
+//       "publishedAt": "2023-08-21T12:45:25Z",
+//       "content": "Auto-brightness is a display setting that most mobile devices and computers feature. They use an ambient light sensor to automatically gauge the ambient light in a room and adjust the display accordi… [+2051 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MakeUseOf"
+//       },
+//       "author": "Jose Luansing Jr.",
+//       "title": "Is Facial Recognition Technology Becoming a Privacy Risk?",
+//       "description": "Many of us use facial recognition, but is it really safe?",
+//       "url": "https://www.makeuseof.com/is-facial-recognition-technology-becoming-privacy-risk/",
+//       "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/face-id-graphic.jpg",
+//       "publishedAt": "2023-08-21T13:31:25Z",
+//       "content": "Facial recognition technology (FRT) is a widespread, versatile biometric security system that goes far beyond just unlocking phones. Private and government sectors have integrated FRT into various fu… [+8057 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Phandroid - News for Android"
+//       },
+//       "author": "Tyler Lee",
+//       "title": "X will soon no longer allow you to block other users",
+//       "description": "According to a post by Elon Musk, it seems that blocking users on X will soon no longer be possible.",
+//       "url": "https://phandroid.com/2023/08/21/x-will-soon-no-longer-allow-you-to-block-other-users/",
+//       "urlToImage": null,
+//       "publishedAt": "2023-08-21T11:20:00Z",
+//       "content": "On X (formerly known as Twitter), if someone is harassing you or you dont like that person, you can block them. This effectively stops them from viewing your profile and your posts, meaning that they… [+1230 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Presse-citron"
+//       },
+//       "author": "Vincent Bouvier",
+//       "title": "La nouvelle application iPhone Tesla va changer la vie des utilisateurs",
+//       "description": "Tesla vient de mettre en ligne une mise à jour majeure pour son application iOS.",
+//       "url": "https://www.presse-citron.net/la-nouvelle-application-iphone-tesla-va-changer-la-vie-des-utilisateurs/",
+//       "urlToImage": "https://www.presse-citron.net/app/uploads/2023/08/Raccourcis-Tesla.jpg",
+//       "publishedAt": "2023-08-21T07:14:10Z",
+//       "content": "L’application Tesla vient de s’enrichir d’une fonctionnalité majeure : le support des raccourcis. Le système d’automatisation avancé d’Apple permet un contrôle plus rapide des fonctionnalités de la v… [+2730 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Presse-citron"
+//       },
+//       "author": "Setra",
+//       "title": "Comment Google va vous aider à localiser votre smartphone perdu",
+//       "description": "En attendant le lancement du réseau Find My Device de Google, de nouvelles informations circulent sur la toile.",
+//       "url": "https://www.presse-citron.net/comment-google-va-vous-aider-a-localiser-votre-smartphone-perdu/",
+//       "urlToImage": "https://www.presse-citron.net/app/uploads/2023/05/google-pixel-7a-2.jpg",
+//       "publishedAt": "2023-08-21T12:30:19Z",
+//       "content": "<ul><li>Google prépare une nouvelle fonctionnalité appelée Find My Device sur Android</li><li>Ce réseau, semblable au réseau Localiser dApple, permettra de retrouver un smartphone perdu même lorsque … [+3263 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Pitchfork"
+//       },
+//       "author": "Pitchfork",
+//       "title": "Sufjan Stevens, Victoria Monét, Lost Girls, and More: This Week’s Pitchfork Selects Playlist",
+//       "description": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+//       "url": "https://pitchfork.com/news/sufjan-stevens-victoria-monet-lost-girls-this-week-pitchfork-selects-playlist/",
+//       "urlToImage": "https://media.pitchfork.com/photos/64dfee9f94b0ef4633cc8598/16:9/w_1280,c_limit/082123-01.png",
+//       "publishedAt": "2023-08-21T14:07:21Z",
+//       "content": "The staff of Pitchfork listens to a lot of new music. A lot of it. On any given day our writers, editors, and contributors go through an imposing number of new releases, giving recommendations to eac… [+1032 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Golem.de"
+//       },
+//       "author": "Peter Osteried",
+//       "title": "Invasion: Der Krieg eskaliert in der zweiten Staffel von Infiltration",
+//       "description": "Die erste Staffel hat vom Anfang, vom Vorgeplänkel erzählt. Mit der zweiten geht die Serie richtig in die Vollen! Start ist am 23. August bei Apple TV+. Eine Rezension von Peter Osteried (Apple TV+, Apple TV)",
+//       "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Finvasion-der-krieg-eskaliert-in-der-zweiten-staffel-von-infiltration-2308-176865.html&referer=https%3A%2F%2Ft.co%2F84e4c1d23b",
+//       "urlToImage": null,
+//       "publishedAt": "2023-08-21T05:00:02Z",
+//       "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Search Engine Journal"
+//       },
+//       "author": "Roger Montti",
+//       "title": "Threads: What Is The New Social App From Instagram? via @sejournal, @martinibuster",
+//       "description": "What is Instagram's Threads app and is it a better way to X-Twitter? \nThe post Threads: What Is The New Social App From Instagram? appeared first on Search Engine Journal.",
+//       "url": "https://www.searchenginejournal.com/threads/493069/",
+//       "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/08/instagram-threads-64ca089439bf5-sej.jpg",
+//       "publishedAt": "2023-08-21T09:00:24Z",
+//       "content": "Threads is a text-based social media app created by Instagram to compete with X (formerly Twitter).\r\nThe new social app was announced on July 5, 2023, and quickly surpassed 150 million downloads, bec… [+14423 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Android Authority"
+//       },
+//       "author": "C. Scott Brown",
+//       "title": "No Apple foldable yet, but iOS users can ‘fold’ two iPhones using Try Galaxy app",
+//       "description": "Using Samsung's \"Try Galaxy\" app for Safari, iPhone users can connect two iPhones together and get an idea of how cool foldables are.",
+//       "url": "https://www.androidauthority.com/try-galaxy-foldables-3356680/",
+//       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/08/Samsung-Galaxy-Z-Fold-5-13.jpg",
+//       "publishedAt": "2023-08-21T16:32:48Z",
+//       "content": "<ul><li>The Try Galaxy app for Safari has been updated to include features from One UI 5.1.1.</li><li>The app also features a new trick that links two iPhones to create a facsimile of a foldable devi… [+1543 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Android Authority"
+//       },
+//       "author": "Aamir Siddiqui",
+//       "title": "Tired of broken iPhone cables? The iPhone 15 could finally fix this",
+//       "description": "The iPhone 15 series could ship with a color-matched, braided USB-C cable. This should fix some of the longest standing durability concerns.",
+//       "url": "https://www.androidauthority.com/iphone-15-series-braided-usb-c-cable-leak-3356613/",
+//       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/08/Apple-iPhone-15-color-matched-braided-USB-C-Cables.jpg",
+//       "publishedAt": "2023-08-21T13:17:13Z",
+//       "content": "<ul><li>Leaked images showcase color-matched, braided USB-C cables reportedly intended for the iPhone 15 series.</li><li>These braided cables will be a significant upgrade in durability compared to t… [+2003 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Android Authority"
+//       },
+//       "author": "Aamir Siddiqui",
+//       "title": "One UI 6 brings official Chromecast support to Samsung Galaxy phones",
+//       "description": "Samsung is making it easier for your Galaxy smartphone to cast content via Chromecast with the latest One UI 6 update. Read on to know more!",
+//       "url": "https://www.androidauthority.com/samsung-galaxy-chromecast-one-ui-6-3356571/",
+//       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/03/Samsung-Galaxy-S23-Ultra-vs-Galaxy-S23-size-difference.jpg",
+//       "publishedAt": "2023-08-21T11:52:54Z",
+//       "content": "<ul><li>Samsung Galaxy smartphones on One UI 6 can now cast content easily to Chromecast/Google Cast-enabled devices.</li><li>An experimental Labs setting now lets you enable Chromecast support on Ga… [+2194 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Presse-citron"
+//       },
+//       "author": "Presse-citron",
+//       "title": "Apple colore un produit insignifiant, mais toujours pas les AirPods",
+//       "description": "Les écouteurs sans fil restent disponibles en blanc uniquement (chez Apple).",
+//       "url": "https://www.presse-citron.net/apple-colore-un-produit-insignifiant-mais-toujours-pas-les-airpods/",
+//       "urlToImage": "https://www.presse-citron.net/app/uploads/2023/08/cable.jpg",
+//       "publishedAt": "2023-08-21T17:30:42Z",
+//       "content": "<ul><li>Le câble de recharge des iPhone 15 serait coloré, assorti à la coque du mobile</li><li>Cinq coloris sont attendus : noir, vert, bleu, jaune et rose</li><li>La recharge plus rapide est aussi t… [+2715 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "BGR"
+//       },
+//       "author": "Joshua Hawkins",
+//       "title": "Improve your iPhone’s battery life with this simple setting",
+//       "description": "Phone batteries have come a long way since the original iPhone, but there are still things you can do to optimize just how long your …\nThe post Improve your iPhone’s battery life with this simple setting appeared first on BGR.",
+//       "url": "https://bgr.com/tech/improve-your-iphones-battery-life-with-this-simple-setting/",
+//       "urlToImage": "https://bgr.com/wp-content/uploads/2022/09/apple-iphone-14-3.jpg?quality=82&strip=all",
+//       "publishedAt": "2023-08-21T01:24:00Z",
+//       "content": "Phone batteries have come a long way since the original iPhone, but there are still things you can do to optimize just how long your iPhone’s battery lasts throughout the day. If you struggle to make… [+2122 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "Tammy Rogers",
+//       "title": "Skipping Apple Watch Series 9? Get the Series 8 for $70 less!",
+//       "description": "The Apple Watch Series 8 drops in price just as the Apple Watch Series 9 rounds the corner.",
+//       "url": "https://www.imore.com/health-fitness/apple-watch/skipping-apple-watch-series-9-get-the-series-8-for-dollar70-less",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/38WVHswmYW9YhiR8WdVZzN-1200-80.jpg",
+//       "publishedAt": "2023-08-21T10:57:07Z",
+//       "content": "The Apple Watch Series 8 has been Apple’s flagship watch for some time now, and it’s still as slick and shiny as ever. Now, you can get one from Amazon with a big discount — not the biggest we’ve see… [+1957 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "james.bentley@futurenet.com (James Bentley)",
+//       "title": "You can now change Tesla controls and lock your vehicle on the go, thanks to Apple Shortcuts",
+//       "description": "The Tesla App finally supports automation with Apple Shortcuts. Here's what we know.",
+//       "url": "https://www.imore.com/apple/you-can-now-change-tesla-controls-and-lock-your-vehicle-on-the-go-thanks-to-apple-shortcuts",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/jGTEfCwwxfZgFP4HLEcv9m-1200-80.jpg",
+//       "publishedAt": "2023-08-21T10:49:27Z",
+//       "content": "With an update that just came out for the Apple Tesla app, you can finally use Apple Shortcuts to automate functions for your Tesla. Though a seemingly small change - this is a much-requested feature… [+2406 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "Stephen Warwick",
+//       "title": "iPhone 15 Pro Max leak reveals last minute-name change we'd all forgotten",
+//       "description": "A new report claims Apple will use the iPhone 15 Ultra moniker for its largest Pro iPhone, not iPhone 15 Pro Max, this year.",
+//       "url": "https://www.imore.com/iphone/iphone-15/iphone-15-pro-max-leak-reveals-last-minute-name-change-wed-all-forgotten",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/NBeQsn8uxEUBQyALpC34sj-1200-80.jpeg",
+//       "publishedAt": "2023-08-21T10:51:39Z",
+//       "content": "A brand new report into Apple’s iPhone 15 lineup claims that Apple will in fact use the previously touted iPhone 15 Ultra moniker for its biggest and best iPhone, rather than iPhone 15 Pro Max. \r\nAs … [+2745 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "daryl.baxter@futurenet.com (Daryl Baxter)",
+//       "title": "Apple Watch Series 9 and Ultra 2 leaked in database ahead of iPhone 15 launch",
+//       "description": "While the listing doesn’t hint at what the new watches feature, it at least confirms they’re on the way.",
+//       "url": "https://www.imore.com/health-fitness/apple-watch/apple-watch-series-9-and-ultra-2-leaked-in-database-ahead-of-iphone-15-launch",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/cy4QceJbJCbY8XTHLHcTBm-1200-80.jpg",
+//       "publishedAt": "2023-08-21T11:41:27Z",
+//       "content": "In what’s shaping up to be a busy September for Apple, a filing with the Bluetooth database confirms that a new Watch is coming.\r\nThe Bluetooth Launch Studio (which lists upcoming Bluetooth-enabled p… [+2283 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+//       "title": "An Apple AirTag rescued a man's lost luggage after two different airlines couldn't",
+//       "description": "Apple's AirTag item tracker helped someone get their luggage back after not one but two different airlines managed to lose it.",
+//       "url": "https://www.imore.com/iphone/iphone-accessories/an-apple-airtag-rescued-a-mans-lost-luggage-after-two-different-airlines-couldnt",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/mqesBWJsxhpYcxkgRwA5jd-1200-80.jpg",
+//       "publishedAt": "2023-08-21T15:32:06Z",
+//       "content": "Nobody likes losing their luggage at the airport and it's even worse when not one, but two different airlines manage to do it for you. So when that exact thing happened to Winston Sih, it was lucky t… [+1659 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "imore@futurenet.com (IM Staff)",
+//       "title": "iMore Readers’ Choice Awards 2023: Your top picks for the best Apple devices, apps and accessories of the year",
+//       "description": "The best of the best of 2023, as voted by you!",
+//       "url": "https://www.imore.com/apple/imore-readers-choice-awards-2023-your-top-picks-for-the-best-apple-devices-apps-and-accessories-of-the-year",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pbFShwSsvBfcGciHRdeJek-1200-80.jpg",
+//       "publishedAt": "2023-08-21T15:47:25Z",
+//       "content": "You voted, we listened: Welcome to the iMore Readers’ Choice Awards 2023, where you, our amazing readership, have picked the Apple devices, apps, and accessories you want to see crowned as this year'… [+12358 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "james.bentley@futurenet.com (James Bentley)",
+//       "title": "AirPods Pro 3: Everything you need to know",
+//       "description": "AirPods Pro 2 have been around long enough that we're now looking forward to the next generation, AirPods Pro 3. Here’s what we know about them.",
+//       "url": "https://www.imore.com/apple/airpods-pro-3-everything-you-need-to-know",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/QDSFVr9bJJbGF9NEDmEsQK-1200-80.jpg",
+//       "publishedAt": "2023-08-21T10:50:48Z",
+//       "content": "Though the introduction of the original AirPods showed a significant change in audio approach for Apple, the AirPods Pro were seen as a perfection of the formula by many. Now, with the AirPods Pro 2\r… [+8234 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+//       "title": "Your colorful USB-C iPhone 15 could have a braided cable to match",
+//       "description": "The famous white Lightning cable could be replaced by colorful new braided USB-C ones for the iPhone 15 release.",
+//       "url": "https://www.imore.com/iphone/iphone-15/your-colorful-usb-c-iphone-15-could-have-a-braided-cable-to-match",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/qtA4Atoq45K9HM2gAq68hj-1200-80.jpg",
+//       "publishedAt": "2023-08-21T12:05:44Z",
+//       "content": "Apple has shipped white Lightning cables with new iPhones for a decade now. Before that, white 30-pin Dock connector cables. But that might all be about to change.\r\nWe're already expecting the iPhone… [+1862 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+//       "title": "12 future iPhone and Mac chips might have been leaked by Apple's own servers",
+//       "description": "Apple's next few years of iPhone and Mac chips have seemingly been outed by its own servers including the M5 and A19.",
+//       "url": "https://www.imore.com/iphone/12-future-iphone-and-mac-chips-might-have-been-leaked-by-apples-own-servers",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/x9nccoZ6hz5EzVCqFf2rhY-1200-80.jpg",
+//       "publishedAt": "2023-08-21T11:09:42Z",
+//       "content": "Apple is expected to announce the iPhone 15 Pro with a new A17 chip next month, and updated Macs powered by new M3 silicon are likely to arrive before the end of the year. But perhaps unsurprisingly,… [+2689 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "imore@futurenet.com (IM Staff)",
+//       "title": "Apple Studio Display is the ’Best monitor for Mac’ winner of the iMore Readers' Choice Awards 2023",
+//       "description": "Caught in 5K.",
+//       "url": "https://www.imore.com/apple/apple-studio-display-is-the-best-monitor-for-mac-winner-of-the-imore-readers-choice-awards-2023",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/WnWFJdnRGLB6TSENFxokmb-1200-80.jpg",
+//       "publishedAt": "2023-08-21T16:00:00Z",
+//       "content": "After collecting the votes of more than 1,000 iMore readers, we're today sharing the winners of the iMore Readers' Choice Awards 2023. And the next winner is...\r\nAll of the entries on this list were … [+697 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "imore@futurenet.com (IM Staff)",
+//       "title": "15-inch MacBook Air is the ’Best Apple device of the year' winner of the iMore Readers' Choice Awards 2023",
+//       "description": "There was only ever one choice...",
+//       "url": "https://www.imore.com/apple/15-inch-macbook-air-is-the-best-apple-device-of-the-year-winner-of-the-imore-readers-choice-awards-2023",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/4wMgP3gT2gaXxAqdymYLaB-1200-80.jpg",
+//       "publishedAt": "2023-08-21T16:00:00Z",
+//       "content": "After collecting the votes of more than 1,000 iMore readers, we're today sharing the winners of the iMore Readers' Choice Awards 2023. And the next winner is...\r\nIt’s the MacBook that no-one knew the… [+730 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "imore@futurenet.com (IM Staff)",
+//       "title": "AirPods Pro 2 are the ’Best audio device’ winner of the iMore Readers' Choice Awards 2023",
+//       "description": "More Pro than ever.",
+//       "url": "https://www.imore.com/apple/airpods-pro-2-are-the-best-audio-device-winner-of-the-imore-readers-choice-awards-2023",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/csmTGPi8nQJVohv5q9jbJ4-1200-80.jpg",
+//       "publishedAt": "2023-08-21T16:00:00Z",
+//       "content": "After collecting the votes of more than 1,000 iMore readers, we're today sharing the winners of the iMore Readers' Choice Awards 2023. And the next winner is...\r\nThe HomePod 2 came in with a shout of… [+637 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "Lloyd Coombes",
+//       "title": "Remember Time Machine? Here's how to use one of the best features of macOS",
+//       "description": "Get the most out of Apple’s backup option without Time Machine tips and tricks.",
+//       "url": "https://www.imore.com/apps/mac-apps/here-are-some-important-time-machine-tips-for-your-mac-to-keep-in-mind",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/jrVVX2aTkFLoZ8i4DbAV8P-1200-80.jpg",
+//       "publishedAt": "2023-08-21T11:01:33Z",
+//       "content": "Apple’s Time Machine utility made its debut with Mac OS X Leopard (10.5), and it’s been saving our collective bacon ever since - but many are still not taking full advantage of the backup options.\r\nT… [+5212 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "imore@futurenet.com (IM Staff)",
+//       "title": "HomePod 2 is the ’Best smart home device’ winner of the iMore Readers' Choice Awards 2023",
+//       "description": "Turn up the bass.",
+//       "url": "https://www.imore.com/apple/homepod-2-is-the-best-smart-home-device-winner-of-the-imore-readers-choice-awards-2023",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/2ZU4Pf25nsC6gGdmuPdaD-1200-80.jpg",
+//       "publishedAt": "2023-08-21T16:00:00Z",
+//       "content": "After collecting the votes of more than 1,000 iMore readers, we're today sharing the winners of the iMore Readers' Choice Awards 2023. And the next winner is...\r\nWhen you think of smart home devices,… [+719 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "iMore"
+//       },
+//       "author": "imore@futurenet.com (IM Staff)",
+//       "title": "Anker 3-in-1 Cube is the ’Best iPhone accessory’ winner of the iMore Readers' Choice Awards 2023",
+//       "description": "A superb charging stand for iPhone.",
+//       "url": "https://www.imore.com/apple/anker-3-in-1-cube-is-the-best-iphone-accessory-winner-of-the-imore-readers-choice-awards-2023",
+//       "urlToImage": "https://cdn.mos.cms.futurecdn.net/EF7n5SU2BAR5NJhqmP6XeB-1200-80.jpg",
+//       "publishedAt": "2023-08-21T16:00:00Z",
+//       "content": "After collecting the votes of more than 1,000 iMore readers, we're today sharing the winners of the iMore Readers' Choice Awards 2023. And the next winner is...\r\nIf Pinhead’s Hellraiser puzzle box wa… [+631 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Techdirt"
+//       },
+//       "author": "Mike Masnick",
+//       "title": "Yes, In Theory, Elon Could Be Cooking Up Something Better Than Blocks, But In Reality…",
+//       "description": "You might have heard late last week or over the weekend, that Elon was getting rid of the “block” feature on exTwitter. Elon had tweeted on Friday claiming “Block is going to be deleted as a “feature”, except for DMs.” But, uh, he had said basically the same …",
+//       "url": "https://www.techdirt.com/2023/08/21/yes-in-theory-elon-could-be-cooking-up-something-better-than-blocks-but-in-reality/",
+//       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+//       "publishedAt": "2023-08-21T19:04:00Z",
+//       "content": "from the pigs-could-fly dept\r\nYou might have heard late last week or over the weekend, that Elon was getting rid of the block feature on exTwitter. Elon had tweeted on Friday claiming Block is going … [+4861 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Xatakamovil.com"
+//       },
+//       "author": "Alejandro Alcolea",
+//       "title": "Apple no quiere los mensajes RCS en el iPhone, pero esta app puede acabar con la guerra de los globos verdes y azules",
+//       "description": "Puede que te resulte extraño, pero los SMS son un rotundo éxito en algunos países, estando Estados Unidos entre ellos. Podrías pensar que Telegram o, sobre todo, WhatsApp son las apps estrella para comunicarse, pero como decimos, hay países en los que los SMS…",
+//       "url": "https://www.xatakamovil.com/aplicaciones/apple-no-quiere-mensajes-rcs-iphone-esta-app-puede-acabar-guerra-globos-verdes-azules",
+//       "urlToImage": "https://i.blogs.es/49ddf2/son-otros-50-euros-1/840_560.jpeg",
+//       "publishedAt": "2023-08-21T11:45:32Z",
+//       "content": "Puede que te resulte extraño, pero los SMS son un rotundo éxito en algunos países, estando Estados Unidos entre ellos. Podrías pensar que Telegram o, sobre todo, WhatsApp son las apps estrella para c… [+3168 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Xatakamovil.com"
+//       },
+//       "author": "Fran León",
+//       "title": "eBay tiene en oferta esta tablet Xiaomi que puedes llevarte por menos de 300 euros aplicando un cupón",
+//       "description": "Si estabas buscando renovar tu vieja tablet y ya le habías echado el ojo a la Xiaomi Mi Pad 5, ahora es un buen momento para conseguirla a buen precio, ya que en eBay ha vuelto el cuponazo por el Mi Fan Day y aplicando el código MIFANDAY23 antes de la compra,…",
+//       "url": "https://www.xatakamovil.com/ofertas/ebay-tiene-oferta-esta-tablet-xiaomi-que-puedes-llevarte-300-euros-aplicando-cupon",
+//       "urlToImage": "https://i.blogs.es/0003b8/ofertas_cpa_v3-copia-9-/840_560.jpeg",
+//       "publishedAt": "2023-08-21T15:00:50Z",
+//       "content": "Si estabas buscando renovar tu vieja tablet y ya le habías echado el ojo a la Xiaomi Mi Pad 5, ahora es un buen momento para conseguirla a buen precio, ya que en eBay ha vuelto el cuponazo por el Mi … [+1800 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Xatakamovil.com"
+//       },
+//       "author": "Pepu Ricca",
+//       "title": "Una mala predicción sobre el futuro de los móviles le costó a una teleco 12.000 millones de dólares",
+//       "description": "La telefonía móvil comenzó su andadura hace 50 años, cuando Martin Cooper de Motorola realizó la primera llamada desde un móvil. En España, sucedió hace casi 30 años, cuando Telefónica inauguró el servicio GSM. Desde entonces, ha avanzado a un ritmo sin prece…",
+//       "url": "https://www.xatakamovil.com/movil-y-sociedad/mala-prediccion-futuro-moviles-le-costo-a-teleco-12-000-millones-dolares",
+//       "urlToImage": "https://i.blogs.es/f60713/telefonia-movil/840_560.jpeg",
+//       "publishedAt": "2023-08-21T16:00:30Z",
+//       "content": "La telefonía móvil comenzó su andadura hace 50 años, cuando Martin Cooper de Motorola realizó la primera llamada desde un móvil. En España, sucedió hace casi 30 años, cuando Telefónica inauguró el se… [+2927 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Omgubuntu.co.uk"
+//       },
+//       "author": "Joey Sneddon",
+//       "title": "LibreOffice 7.6 Released, This is What’s New",
+//       "description": "LibreOffice 7.6 is available to download. This update lands exactly on schedule, some 6 months after the LibreOffice 7.5 release (which included visual tweaks, major PDF export enhancements, and other changes). LibreOffice 7.6 sees its devs build out further …",
+//       "url": "https://www.omgubuntu.co.uk/2023/08/libreoffice-7-6",
+//       "urlToImage": "https://149366088.v2.pressablecdn.com/wp-content/uploads/2023/02/libreoffice-7.5-writer.jpg",
+//       "publishedAt": "2023-08-21T12:56:12Z",
+//       "content": "LibreOffice 7.6 is available to download.\r\nThis update lands exactly on schedule, some 6 months after the LibreOffice 7.5 release (which included visual tweaks, major PDF export enhancements, and oth… [+4416 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "Rolling Stone"
+//       },
+//       "author": "Marlow Stern",
+//       "title": "The Fugitive Nissan CEO Smuggled Out of Japan in a Music Box",
+//       "description": "Apple TV+’s docuseries Wanted: The Escape of Carlos Ghosn revisits a wild story involving crime, human smuggling, and intrepid journalists",
+//       "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/wanted-the-escape-of-carlos-ghosn-apple-tv-docuseries-japan-smuggling-1234809405/",
+//       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/08/Carlos_Ghosn_Photo_010101.jpg?w=1600&h=900&crop=1",
+//       "publishedAt": "2023-08-21T14:00:00Z",
+//       "content": "The marriage of elite journalism and documentaryhas been a welcome one, for reasons that should be clear. Get experienced, polished reporters involved in a story and you’re generally going to get a t… [+4588 chars]"
+//     },
+//     {
+//       "source": {
+//         "id": null,
+//         "name": "MIT Technology Review"
+//       },
+//       "author": "Rhiannon Williams",
+//       "title": "The Download: reusing heat from computers, and period research",
+//       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup has engineered a clever way to reuse waste heat from cloud computing The idea of using the wasted heat of co…",
+//       "url": "https://www.technologyreview.com/2023/08/21/1078143/the-download-reusing-heat-period-research/",
+//       "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2023/08/Databoilers_17-thumb.jpeg?resize=1200,600",
+//       "publishedAt": "2023-08-21T12:10:00Z",
+//       "content": "Saima Sidik\r\nBoth of the stories featured today are from the new ethics-themed print magazine issue of MIT Technology Review, set to go live on Wednesday. Subscribe to read it, if you dont already!\r\n… [+2391 chars]"
+//     }
+//   ]
+// }
+
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
